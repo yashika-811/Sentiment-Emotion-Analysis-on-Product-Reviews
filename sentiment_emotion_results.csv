@@ -1,0 +1,59 @@
+review,cleaned_review,sentiment,emotion
+This product is amazing and works perfectly,product amazing works perfectly,Positive,joy
+"Worst experience ever, totally disappointed",worst experience ever totally disappointed,Negative,anger
+"Average quality, not bad but not great",average quality bad great,Negative,joy
+I love this! Fantastic performance,love fantastic performance,Positive,joy
+"Very poor build quality, waste of money",poor build quality waste money,Negative,sadness
+"Excellent product, exceeded my expectations",excellent product exceeded expectations,Positive,joy
+"Not worth the money, very low quality",worth money low quality,Positive,neutral
+"Good value for the price, satisfied",good value price satisfied,Positive,neutral
+The product stopped working after a week,product stopped working week,Neutral,neutral
+Super fast delivery and great packaging,super fast delivery great packaging,Positive,joy
+Quality is okay but could be improved,quality okay could improved,Positive,neutral
+"Absolutely love it, will buy again",absolutely love buy,Positive,joy
+Terrible customer service experience,terrible customer service experience,Negative,neutral
+The item looks premium and works well,item looks premium works well,Neutral,neutral
+Battery life is very disappointing,battery life disappointing,Negative,neutral
+Decent product for daily use,decent product daily use,Positive,neutral
+Worst purchase I have ever made,worst purchase ever made,Negative,anger
+Amazing design and smooth performance,amazing design smooth performance,Positive,joy
+The material feels cheap and fragile,material feels cheap fragile,Positive,neutral
+Very happy with this purchase,happy purchase,Positive,neutral
+"Product arrived damaged, very unhappy",product arrived damaged unhappy,Negative,neutral
+"Works as described, no complaints",works described complaints,Neutral,neutral
+"Overheats quickly, not recommended",overheats quickly recommended,Positive,neutral
+Really impressed with the quality,really impressed quality,Positive,neutral
+"It’s okay, neither good nor bad",okay neither good bad,Positive,anger
+Excellent performance for this price range,excellent performance price range,Positive,joy
+"Not useful at all, complete waste",useful complete waste,Positive,sadness
+The features are great and easy to use,features great easy use,Positive,joy
+Disappointed with the overall quality,disappointed overall quality,Negative,sadness
+"Highly recommended, very satisfied",highly recommended satisfied,Positive,neutral
+Bad packaging but product works fine,bad packaging product works fine,Negative,anger
+"Average performance, nothing special",average performance nothing special,Positive,neutral
+"Loved the product, works flawlessly",loved product works flawlessly,Positive,neutral
+Too expensive for the quality offered,expensive quality offered,Negative,neutral
+Very smooth and user-friendly,smooth userfriendly,Positive,neutral
+"The product is faulty, returning it",product faulty returning,Neutral,neutral
+Good build quality and reliable,good build quality reliable,Positive,neutral
+"Not satisfied, expected better",satisfied expected better,Positive,neutral
+Fast performance and excellent results,fast performance excellent results,Positive,joy
+Very poor customer support,poor customer support,Negative,sadness
+Happy with the purchase so far,happy purchase far,Positive,neutral
+The product broke within days,product broke within days,Neutral,neutral
+"Worth every penny, great value",worth every penny great value,Positive,joy
+"Mediocre experience, okay product",mediocre experience okay product,Neutral,neutral
+Fantastic quality and durable,fantastic quality durable,Positive,joy
+Does not work as advertised,work advertised,Neutral,neutral
+Extremely satisfied with this item,extremely satisfied item,Positive,neutral
+Below average performance,average performance,Negative,neutral
+Great product for beginners,great product beginners,Positive,joy
+Worst quality product received,worst quality product received,Negative,anger
+Amazing speed and smooth usage,amazing speed smooth usage,Positive,joy
+"Not bad, but could be better",bad could better,Negative,anger
+Very reliable and sturdy,reliable sturdy,Neutral,neutral
+Totally disappointed with this product,totally disappointed product,Negative,sadness
+"Loved it, highly useful",loved highly useful,Positive,neutral
+Cheap quality materials used,cheap quality materials used,Positive,neutral
+Works fine for now,works fine,Positive,neutral
+Terrible experience overall,terrible experience overall,Negative,neutral
